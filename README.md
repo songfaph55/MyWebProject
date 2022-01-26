@@ -12,7 +12,7 @@
 </a>
 
 # Credit
-###### songfaph@382@gmai.com
+###### songfaph382@gmai.com
 
 # License
 ##### songfa.
